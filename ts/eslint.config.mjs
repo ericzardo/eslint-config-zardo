@@ -21,6 +21,7 @@ export default [
       "space-before-function-paren": ["error", "always"],
       "no-empty": ["error", { "allowEmptyCatch": true }],
       "no-use-before-define": "error",
+      "indent": ["error", 2],
     }
   }
 ];
