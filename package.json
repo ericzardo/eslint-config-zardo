@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-zardo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "author": {
+    "email": "ericszardo@gmail.com",
+    "name": "Eric Zardo",
+    "url": "https://github.com/ericzardo"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "config",
+    "zardo",
+    "config-zardo"
+  ],
+  "dependencies": {
+    "eslint": "^9.18.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^5.1.0"
+  }
+}
