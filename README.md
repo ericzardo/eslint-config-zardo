@@ -1,4 +1,4 @@
-# eslint-config-zardo
+# eslint-config-zdo
 
 A reusable ESLint configuration package for JavaScript and TypeScript projects, designed to enforce coding standards and best practices.
 
@@ -7,25 +7,25 @@ A reusable ESLint configuration package for JavaScript and TypeScript projects, 
 To use this configuration in your project, install it as a dev dependency:
 
 ```bash
-npm install --save-dev eslint-config-zardo
+npm install --save-dev eslint-config-zdo
 ```
 
 or if you are using Yarn:
 
 ```bash
-yarn add --dev eslint-config-zardo
+yarn add --dev eslint-config-zdo
 ```
 
 ## Usage
 
 ### For JavaScript Projects
 
-Create or update your ESLint configuration file (`eslint.config.js`) to use the `eslint-config-zardo` configuration:
+Create or update your ESLint configuration file (`eslint.config.js`) to use the `eslint-config-zdo` configuration:
 
 ```javascript
-import eslintConfigZardo from 'eslint-config-zardo/js';
+import eslintConfigzdo from 'eslint-config-zdo/js';
 
-export default eslintConfigZardo;
+export default eslintConfigzdo;
 ```
 
 ### For TypeScript Projects
@@ -33,9 +33,9 @@ export default eslintConfigZardo;
 For TypeScript, use the TypeScript-specific configuration:
 
 ```javascript
-import eslintConfigZardo from 'eslint-config-zardo/ts';
+import eslintConfigzdo from 'eslint-config-zdo/ts';
 
-export default eslintConfigZardo;
+export default eslintConfigzdo;
 ```
 
 ## Features
